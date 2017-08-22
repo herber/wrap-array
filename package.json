@@ -1,0 +1,48 @@
+{
+  "name": "wrap-array",
+  "version": "1.0.0",
+  "description": "Transform anything into an array.",
+  "license": "MIT",
+  "repository": "tobihrbr/wrap-array",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihrbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "nyc ava",
+    "lint": "fyi",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "to",
+    "array",
+    "field",
+    "string",
+    "number",
+    "object",
+    "convert",
+    "generate",
+    "wrap",
+    "transform"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "coveralls": "^2.11.12",
+    "fyi": "^1.0.1",
+    "nyc": "^10.0.0"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ]
+  }
+}
