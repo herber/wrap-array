@@ -1,4 +1,4 @@
-# wrap-array [![Build Status](https://travis-ci.org/tobihrbr/wrap-array.svg?branch=master)](https://travis-ci.org/tobihrbr/wrap-array) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/wrap-array/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/wrap-array?branch=master) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
+# wrap-array [![Build Status](https://travis-ci.org/herber/wrap-array.svg?branch=master)](https://travis-ci.org/herber/wrap-array) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/wrap-array/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/wrap-array?branch=master) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
 
 > Transform anything into an array.
 
